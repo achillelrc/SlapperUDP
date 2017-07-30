@@ -1,5 +1,5 @@
 # Slapper UDP ddos tool
-Outil d'attaque par dénis de service écrit en C
+Outil de spam par dénis de service écrit en C
 
 # Utilisation
 Besoin de la libc et de gcc
