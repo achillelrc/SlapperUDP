@@ -6,7 +6,7 @@ Besoin de la libc et de gcc
 
 Compiler avec **gcc slapper.c -o slapper**
 
-Puis **./slapper ip] [port] [packet size (max:1000)] [time]**
+Puis **./slapper [ip] [port] [packet size (max:1000)] [time]**
 
 ![exemple](https://image.prntscr.com/image/RmWuAIuoTa6U3IdHZy8t5A.png)
 
