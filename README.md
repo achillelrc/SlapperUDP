@@ -1,7 +1,6 @@
 # Slapper UDP ddos tool
-### Spam tool using Denial-of-Service method
-
-#### Usage
+Spam tool using Denial-of-Service method
+### Usage
 libc and gcc needed
 
 Compile the script with
@@ -14,7 +13,7 @@ And use it with
 ```
 ![exemple](https://image.prntscr.com/image/RmWuAIuoTa6U3IdHZy8t5A.png)
 
-# **Attention** 
+### **Attention** 
 
 Please be careful with this tool, use it **ONLY** to test your own machine.
 I'm **NOT** responsible for any abuse.
