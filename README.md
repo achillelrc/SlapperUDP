@@ -1,15 +1,20 @@
 # Slapper UDP ddos tool
-Outil de spam par dénis de service écrit en C
+### Spam tool using Denial-of-Service method
 
-# Utilisation
-Besoin de la libc et de gcc
+#### Usage
+libc and gcc needed
 
-Compiler avec **gcc slapper.c -o slapper**
-
-Puis **./slapper [ip] [port] [packet size (max:1000)] [time]**
-
+Compile the script with
+```
+gcc slapper.c -o slapper
+```
+And use it with
+```
+./slapper [ip] [port] [packet size (max:1000)] [time]
+```
 ![exemple](https://image.prntscr.com/image/RmWuAIuoTa6U3IdHZy8t5A.png)
 
 # **Attention** 
 
-à n'utiliser que pour tester votre taux d'upload et surtout exclusivement sur des machines qui vous appartiennent je ne veux pas être tenu responsable d'abus..
+Please be careful with this tool, use it **ONLY** to test your own machine.
+I'm **NOT** responsible for any abuse.
