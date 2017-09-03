@@ -1,8 +1,7 @@
 /*
 ** my_udp.c for achille's udp flood tool in /home/binary/All/Enjoy
 ** 
-** Made by Laroche Achille
-** Login   <binary@epitech.net>
+** <achille.laroche@gmail.com>
 ** 
 ** Started on  Sun May 28 18:22:10 2017
 ** Last update Sun May 28 20:55:36 2017 Laroche Achille
