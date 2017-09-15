@@ -17,3 +17,4 @@ And use it with
 
 Please be careful with this tool, use it **ONLY** to test your own machine.
 I'm **NOT** responsible for any abuse.
+page-report .monthview-datetable[_ngcontent-c1] td[_ngcontent-c1]
