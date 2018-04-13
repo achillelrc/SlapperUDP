@@ -5,7 +5,6 @@ libc and gcc needed
 ```
 gcc slapper.c -o slapper
 ```
-usage:
 ```
 ./slapper [ip] [port] [packet size (max:1000)] [time]
 ```
