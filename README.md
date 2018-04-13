@@ -16,4 +16,4 @@ And use it with
 ### **Attention** 
 
 Please be careful with this tool, use it **ONLY** to test your own machine.
-I'm **NOT** responsible for any abuse.
+I'm **NOT** responsible of any abuse.
