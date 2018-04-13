@@ -1,13 +1,11 @@
-# Slapper UDP ddos tool
+# UDP test ddos tool
 Spam tool using Denial-of-Service method
 ### Usage
 libc and gcc needed
-
-Compile the script with
 ```
 gcc slapper.c -o slapper
 ```
-And use it with
+usage:
 ```
 ./slapper [ip] [port] [packet size (max:1000)] [time]
 ```
